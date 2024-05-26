@@ -1,3 +1,3 @@
 # CCIA $g_m/I_D$ Design
 
- Supplementary material
+$g_m/I_D$ scripts to aide design of a single loop Capacitively Coupled Instrumentation Amplifier (CCIA)
