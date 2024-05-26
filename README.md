@@ -1,3 +1,3 @@
-# CCIA $g_m/I_D$ Optimisation
+# CCIA $g_m/I_D$ Design
 
  Supplementary material
